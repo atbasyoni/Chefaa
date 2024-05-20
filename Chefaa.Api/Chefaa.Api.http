@@ -1,0 +1,6 @@
+@Chefaa.Api_HostAddress = http://localhost:5292
+
+GET {{Chefaa.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
